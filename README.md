@@ -11,7 +11,10 @@ Cursos HTML e CSS <br>
 Digital Innovation One
 
 <hr>
-Total de cursos = 
+Total de cursos = <br>
+
+8 Certificados na Fundação Bradesco, <a href="https://github.com/JonathasGit/Meus-Certificados/issues/1">>>veja aqui os certificados<< </a>
+
 <hr>
 
 
