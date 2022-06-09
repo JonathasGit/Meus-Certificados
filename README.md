@@ -13,7 +13,7 @@ Digital Innovation One
 <hr>
 Total de cursos = <br>
 
-8 Certificados na Fundação Bradesco, <a href="https://github.com/JonathasGit/Meus-Certificados/issues/1">>>veja aqui os certificados<< </a>
+9 Certificados na Fundação Bradesco, <a href="https://github.com/JonathasGit/Meus-Certificados/issues/1">>>veja aqui os certificados<< </a>
 
 <hr>
 
